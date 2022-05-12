@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # peliredia
-Mi primera app con React
+Mi primera app con React--
+
+Aun no esta terminada me falta pulir algunas cosas
 >>>>>>> b70cd6cbead9343394fe3cc081a28e3cf92b8b3f
